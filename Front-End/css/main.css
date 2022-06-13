@@ -1,0 +1,6 @@
+body {caret-color: transparent;}
+#trips-table tr:hover { cursor:pointer; } 
+#leaflet { height: 400px; } 
+.Subscriber { background-color: rgb(250, 217, 202); color: black; } 
+.Customer { background-color: rgb(192, 110, 110); color: black; } 
+tbody :hover {background-color: rgb(235, 162, 66); color: black;}
